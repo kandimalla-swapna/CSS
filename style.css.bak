@@ -1,0 +1,27 @@
+p{font-family:courier;}
+
+p{background-color:white;}
+
+p{border:2px solid red;}
+
+h2{background-color:black;}
+
+h2{color:white;}
+
+/*
+#p1{
+    background-color: orange;
+}
+
+.even{
+    color:red;
+}
+
+body{
+    background-image: url("C:\Users\Lenovo\Pictures\IMG_20220313_213037.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background: linear-gradient(skyblue,lightgreen);
+    background-repeat: no-repeat;
+}
+*/
